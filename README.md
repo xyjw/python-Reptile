@@ -8,4 +8,4 @@ This is the code repository for the Python Reptile book--><a href="https://item.
 # Communication
 QQ群：93314951
 <br>
-微信公众号：幼稚猿
+微信公众号：科技小猿
